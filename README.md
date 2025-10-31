@@ -17,7 +17,7 @@
 
 ### 1️⃣ Clonar o repositório
 ```bash
-git clone https://github.com/SEU-USUARIO/fullstack-docker-postgres.git
+git clone https://github.com/SEU-USUARIO/docker-postgreSQL.git
 
 Rodar Compose
 docker compose up --build
